@@ -1,0 +1,7 @@
+# Compiled Java bytecode
+bin/
+*.class
+
+# OS cruft
+.DS_Store
+Thumbs.db

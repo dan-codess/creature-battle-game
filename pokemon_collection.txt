@@ -1,0 +1,3 @@
+Psyduck,50,Water,Water,Confusion
+Charmander,39,Fire,Fire,Flamethrower
+Snivy,45,Grass,Grass,Vine Whip

@@ -50,3 +50,7 @@ included), with `src` as the source folder and `bin` as output.
 - `pokemon_collection.txt` — your starting Pokémon, one per line as
   `name,hp,defenderType,moveType,movesetType`
 - `top_scores.txt` — written by the game, holds the top five scores
+
+## License
+
+[MIT](LICENSE)
